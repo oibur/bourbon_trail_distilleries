@@ -13,3 +13,10 @@ body {
 .jumbotron {
     background: orangered;
 }
+
+@media (max-width: 768px) {
+    h1 {
+        padding-top: 25px;
+        font-size: 1.25em!important;
+    }
+}
