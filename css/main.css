@@ -1,4 +1,4 @@
-.row {
+.distill {
     background: url(../img/wood.jpg) blue;
 }
 
@@ -17,6 +17,14 @@ body {
 @media (max-width: 768px) {
     h1 {
         padding-top: 25px;
-        font-size: 1.25em!important;
+        font-size: 1.5em!important;
     }
+}
+
+.map {
+    background: black;
+}
+
+.col-md-6 {
+    padding: 4rem;
 }
