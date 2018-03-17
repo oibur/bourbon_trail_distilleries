@@ -1,3 +1,5 @@
+/* Background Colors */
+
 .distill {
     background: url(../img/wood.jpg) blue;
 }
@@ -6,19 +8,42 @@
     background: grey;
 }
 
-body {
-    padding-top: 30px;
-}
-
-.jumbotron {
+.laws {
     background: orangered;
 }
 
-@media (max-width: 768px) {
-    h1 {
-        padding-top: 25px;
-        font-size: 1.5em!important;
-    }
+.facts {
+    background: grey;
+}
+
+.brands {
+    background: black;
+}
+
+.angels_envy {
+    background: tan;
+}
+
+.artisan_distillery {
+    background: green;
+}
+
+.barrel_house {
+    background: saddlebrown;
+}
+
+.bluegrass {
+    background: darkblue;
+}
+
+.boone_county {
+    background: gold;
+}
+
+/* Padding Gutter Fixes */
+
+body {
+    padding-top: 30px;
 }
 
 .map {
@@ -31,6 +56,17 @@ body {
     padding: 4rem;
 }
 
-img {
+/* Make Images Circle */
+
+.logo {
     border-radius: 25%;
+}
+
+/* Media Queries */
+
+@media (max-width: 768px) {
+    h1 {
+        padding-top: 25px;
+        font-size: 1.5em!important;
+    }
 }
