@@ -40,6 +40,30 @@
     background: gold;
 }
 
+.buffalo_trace {
+    background: seagreen;
+}
+
+.bulleit {
+    background: orangered;
+}
+
+.four_roses {
+    background: red;
+}
+
+.hartfield {
+    background: plum;
+}
+
+.heaven_hill {
+    background: tan;
+}
+
+.jeptha_creed {
+    background: maroon;
+}
+
 /* Padding Gutter Fixes */
 
 body {
