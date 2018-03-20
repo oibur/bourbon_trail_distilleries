@@ -80,6 +80,38 @@
     background: red;
 }
 
+.mb_roland {
+    background: navy;
+}
+
+.new_riff {
+    background: black;
+}
+
+.old_pogue {
+    background: tan;
+}
+
+.town_branch {
+    background: teal;
+}
+
+.wild_turkey {
+    background: forestgreen;
+}
+
+.wilderness_trail {
+    background: dodgerblue;
+}
+
+.willett {
+    background: purple;
+}
+
+.woodford_reserve {
+    background: sienna;
+}
+
 /* Padding Gutter Fixes */
 
 body {
