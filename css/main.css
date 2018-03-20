@@ -64,6 +64,22 @@
     background: maroon;
 }
 
+.jim_beam {
+    background: goldenrod;
+}
+
+.peerless {
+    background: darkgreen;
+}
+
+.limestone_branch {
+    background: saddlebrown;
+}
+
+.makers_mark {
+    background: red;
+}
+
 /* Padding Gutter Fixes */
 
 body {
