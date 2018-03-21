@@ -2,7 +2,7 @@
 
 ## Description
 ```
-A brief description of your project
+My project is a website that offers information about Kectucky Bourbon distilleries and the Brands of Bourbon they distill.
 
 ```
 
@@ -12,12 +12,12 @@ A brief description of your project
 ```
 The class(es) I created are:
 
-1. class name ex( .main-info-section )
-.. what class does, ex( adds padding & changes background color of .main-info-section )
+1. .logo
+.. which rounds the bourbon distillery logos a bit in the "Bourbon Distillery" section of my page. 
 
-2.
+2. .'distillery_NAME'
 
-```
+..which adds different background colors to each of the distillery brand cards.
 
 
 
