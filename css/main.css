@@ -88,8 +88,16 @@
     background: navy;
 }
 
+.michters {
+    background: sienna;
+}
+
 .new_riff {
     background: black;
+}
+
+.old_forester {
+    background: lightskyblue;
 }
 
 .old_pogue {
@@ -98,6 +106,10 @@
 
 .town_branch {
     background: teal;
+}
+
+.western_spirits {
+    background: red;
 }
 
 .wild_turkey {
@@ -132,7 +144,7 @@ body {
     padding: 4rem;
 }
 
-/* Make Images Circle */
+/* Make Logos Circle */
 
 .logo {
     border-radius: 25%;
