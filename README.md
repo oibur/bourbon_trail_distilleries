@@ -15,6 +15,13 @@ The classes I created are:
 
 ..which adds different background colors to each of the distillery brand cards.
 
+3. .map {
+    background: black;
+    margin-top: -2rem;
+    margin-bottom: -1rem;}
+
+...which gives a bit of padding to my map, as well as a black background
+
 
 ## Custom JavaScript Functions
 ```
